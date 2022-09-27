@@ -1,0 +1,21 @@
+.contactInfo_item {
+    font-size: 20px !important;
+    color: #787878;
+    padding: 5px;
+} 
+
+.contactInfo_item > span {
+    color: black;
+    font-weight: 100;
+    padding: 10px;
+}
+
+.contactInfo_socialsContainer {
+    margin-top: 15px;
+}
+
+.contactInfo_social > a > .MuiSvgIcon-root {
+    font-size: 22px !important;
+    margin-top: 5px;
+    color: blue;
+}

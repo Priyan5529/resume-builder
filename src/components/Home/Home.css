@@ -1,0 +1,40 @@
+.aboutme_text {
+    color: black !important;
+    font: medium !important;
+    line-height: 22px !important;
+    white-space: pre-line !important;
+    font-size: 18px !important;
+    padding: 10px;
+}
+
+.timeline_title {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    margin: 10px;
+    color: gray;
+}
+
+.timeline_date {
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.timeline_description {
+    color: black;
+    font-size: 18px;
+    margin-top: 15px;
+    margin: 10px;
+    font: medium;
+    padding: 10px;
+}
+
+.timeline_responsibilities {
+    color: black !important;
+    font: large!important;
+    line-height: 22px !important;
+    white-space: pre-line !important;
+    font-size: 18px !important;
+    margin: 10px;
+    margin-top: 15px;
+}

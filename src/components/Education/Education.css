@@ -1,0 +1,21 @@
+.timeline_title {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    margin: 10px;
+    color: gray;
+}
+
+.timeline_date {
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.timeline_description {
+    color: black;
+    font-size: 12px;
+    margin-top: 15px;
+    margin: 10px;
+    font: small;
+    padding: 10px;
+}

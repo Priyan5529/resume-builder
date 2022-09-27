@@ -1,0 +1,33 @@
+.timeline_title {
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    margin: 10px;
+    color: black;
+}
+
+.timeline_date {
+    color: black !important;
+    margin: 10px !important;
+    padding: 10px !important;
+}
+
+.timeline_description {
+    color: black !important;
+    font-size: 18px !important;
+    margin-top: 15px !important;
+    margin: 10px !important;
+    font: medium !important;
+    padding: 5px !important;
+    white-space: pre-line !important;
+}
+
+.timeline_responsibilities {
+    color: black !important;
+    font: large!important;
+    line-height: 22px !important;
+    white-space: pre-line !important;
+    font-size: 20px !important;
+    margin: 10px;
+    margin-top: 15px;
+    padding: 10px;
+}

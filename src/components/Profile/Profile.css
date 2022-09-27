@@ -1,0 +1,75 @@
+.profile {
+    background-color: pink;
+    border-radius: 6px;
+    width: 103%;
+    display: inline-block;
+ 
+}
+.profile_name {
+    line-height: 18px;
+    padding: 20px;
+}
+
+.profile_name .name {
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.profile_name .title {
+    font-size: 20px;
+    color: blue;
+    font: large !important;
+}
+
+.profile_image {
+    margin-top: -10px;
+    clip-path: polygon(0 9%, 100% 0,100% 94%,0% 100%);
+    -webkit-clip-path: polygon(0 9%, 100% 0,100% 94%,0% 100%);
+}
+
+.profile_image img {
+    width: 100%;
+}
+
+.profile_information{
+    top:0;
+    left: 0;
+    margin: -75px 15px 25px;
+
+}
+.profile_information .timeline.timeline_content{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 50px;
+
+}
+
+.timelineItem_text{
+    font-size: 16px !important;
+    color:blue;
+    font-weight: 400 !important;
+    padding-top: 5px;
+    margin-top: 10px;
+    padding: 2px;
+  
+}
+
+.timelineItem_text > a {
+    color: blue;
+    text-decoration: none;
+}
+
+.timelineItem_text > span {
+    color: black;
+    padding: 10px;
+}
+
+.profile .button_container{
+    width: 100%;
+    display: 'flex' !important;
+    justify-content: center;
+    margin-top: 20px;
+    padding-left: 40px;
+
+}
